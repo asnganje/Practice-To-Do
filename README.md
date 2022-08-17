@@ -2,7 +2,7 @@
 # To-DO-Practices
 # To Do List
 
-> a to do list javascript app buit using webpack and es6.
+> A to do list javascript app buit using webpack and es6.
 
 ## Built With
 
