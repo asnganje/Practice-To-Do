@@ -11,9 +11,9 @@
 - JavaScript
 - Wepack
 
-## Live Demo (https://asnganje.github.io/Practice-To-Do/)
+## Live Demo (if available)
 
-[Live Demo Link](#)
+[Live Demo Link](https://asnganje.github.io/Practice-To-Do/)
 
 
 ## Getting Started
